@@ -86,4 +86,5 @@
         "editor.defaultFormatter": "vscode.css-language-features"
       },
       "editor.detectIndentation": false,
+      "explorer.copyRelativePathSeparator": "/",
     }
