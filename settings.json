@@ -70,7 +70,6 @@
   "explorer.compactFolders": false,
   "dart.previewFlutterUiGuides": true,
   "dart.showInspectorNotificationsForWidgetErrors": false,
-  "dart.flutterHotReloadOnSave": "always",
   "workbench.colorTheme": "Ayu Dark",
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
@@ -90,5 +89,5 @@
     "es": true
   },
   "window.menuBarVisibility": "compact",
-  // "editor.guides.bracketPairs":"active",
+  //  "editor.guides.bracketPairs":"active",
 }
